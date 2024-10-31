@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elliottice
 - 👀 I’m interested in infrastructure automation
-- 🌱 I’m currently learning python
+- 🌱 I’m enjoying python scripting.
 - 💞️ I’m looking to collaborate on aws cloud
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/elliott-frost-54aa423/)
 
